@@ -1,4 +1,4 @@
-# EHymns
+# Zambian Hymns of Praise
 
 A Christian  Hymn Book Mobile App built Using .NET MAUI BLAZOR HYBRID
 
