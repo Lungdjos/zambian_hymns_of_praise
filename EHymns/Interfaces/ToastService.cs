@@ -3,7 +3,7 @@ using CommunityToolkit.Maui.Core;
 
 using Font = Microsoft.Maui.Font;
 
-namespace EHymns.Interfaces
+namespace LocalHymns.Interfaces
 {
     public static class ToastService
     {

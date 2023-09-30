@@ -1,4 +1,4 @@
-﻿namespace EHymns;
+﻿namespace LocalHymns;
 
 public partial class MainPage : ContentPage
 {

@@ -1,5 +1,5 @@
-﻿using EHymns.Platforms.iOS;
-using EHymns.Shared;
+﻿using LocalHymns.Platforms.iOS;
+using LocalHymns.Shared;
 
 using Foundation;
 
@@ -12,9 +12,9 @@ using UIKit;
 
 
 
-namespace EHymns.Interfaces
+namespace LocalHymns.Interfaces
 {
-    public class DeviceInfoImplementation : EHymns.Interfaces.IMyDeviceInfo
+    public class DeviceInfoImplementation : LocalHymns.Interfaces.IMyDeviceInfo
     {
         public bool IsWhatsAppInstalled()
         {

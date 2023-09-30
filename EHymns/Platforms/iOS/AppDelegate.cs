@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace EHymns.Platforms.iOS;
+namespace LocalHymns.Platforms.iOS;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

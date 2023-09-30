@@ -1,12 +1,12 @@
 ﻿using CommunityToolkit.Maui;
 
-using EHymns.Interfaces;
+using LocalHymns.Interfaces;
 
 
 using Syncfusion.Blazor;
 using Syncfusion.Licensing;
 
-namespace EHymns;
+namespace LocalHymns;
 
 public static class MauiProgram
 {

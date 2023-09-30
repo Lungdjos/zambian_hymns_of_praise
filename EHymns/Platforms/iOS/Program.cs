@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace EHymns.Platforms.iOS;
+namespace LocalHymns.Platforms.iOS;
 
 public class Program
 {

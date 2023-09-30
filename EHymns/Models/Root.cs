@@ -1,4 +1,4 @@
-namespace EHymns.Models
+namespace LocalHymns.Models
 {
 
     public class Root

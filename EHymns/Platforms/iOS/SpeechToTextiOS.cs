@@ -1,8 +1,8 @@
 ﻿using AVFoundation;
 
-using EHymns.Interfaces;
-using EHymns.Platforms.iOS;
-using EHymns.Shared;
+using LocalHymns.Interfaces;
+using LocalHymns.Platforms.iOS;
+using LocalHymns.Shared;
 
 using Foundation;
 
@@ -16,7 +16,7 @@ using System.Text;
 using UIKit;
 
 
-namespace EHymns.Interfaces
+namespace LocalHymns.Interfaces
 {
     public class SpeechToText : ISpeechToText
     {

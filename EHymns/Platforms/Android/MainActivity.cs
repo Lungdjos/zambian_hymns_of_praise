@@ -3,9 +3,9 @@ using Android.Content;
 using Android.Content.PM;
 using Android.Speech;
 
-using EHymns.Interfaces;
+using LocalHymns.Interfaces;
 
-namespace EHymns.Platforms.Android;
+namespace LocalHymns.Platforms.Android;
 
 [Activity(Theme = "@style/Maui.SplashTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode | ConfigChanges.ScreenLayout | ConfigChanges.SmallestScreenSize | ConfigChanges.Density)]
 public class MainActivity : MauiAppCompatActivity ,IMessageSender

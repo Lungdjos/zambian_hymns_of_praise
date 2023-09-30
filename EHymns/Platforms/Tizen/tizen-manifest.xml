@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.companyname.EHymns" version="1.0.0" api-version="7" xmlns="http://tizen.org/ns/packages">
+<manifest package="com.companyname.LocalHymns" version="1.0.0" api-version="7" xmlns="http://tizen.org/ns/packages">
   <profile name="common" />
-  <ui-application appid="com.companyname.EHymns" exec="EHymns.dll" multiple="false" nodisplay="false" taskmanage="true" type="dotnet" launch_mode="single">
-    <label>EHymns</label>
+  <ui-application appid="com.companyname.LocalHymns" exec="LocalHymns.dll" multiple="false" nodisplay="false" taskmanage="true" type="dotnet" launch_mode="single">
+    <label>LocalHymns</label>
     <icon>appicon.xhigh.png</icon>
     <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
   </ui-application>

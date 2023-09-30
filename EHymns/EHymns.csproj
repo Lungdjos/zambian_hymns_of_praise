@@ -13,7 +13,7 @@
 		<EnableDefaultCssItems>false</EnableDefaultCssItems>
 
 		<!-- Display name -->
-		<ApplicationTitle>ECZ Hymns</ApplicationTitle>
+		<ApplicationTitle>Hymns of Praise</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.wishcodelabs.ehymns</ApplicationId>

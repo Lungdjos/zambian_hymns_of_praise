@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace EHymns.Platforms.Android;
+namespace LocalHymns.Platforms.Android;
 
 [Application]
 public class MainApplication : MauiApplication

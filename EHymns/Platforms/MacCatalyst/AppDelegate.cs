@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace EHymns;
+namespace LocalHymns;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

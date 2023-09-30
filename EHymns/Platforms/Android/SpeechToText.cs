@@ -1,10 +1,10 @@
 ﻿using Android.Content;
 using Android.Speech;
-using EHymns.Platforms.Android;
-using EHymns.Interfaces;
+using LocalHymns.Platforms.Android;
+using LocalHymns.Interfaces;
 
 
-namespace EHymns.Interfaces
+namespace LocalHymns.Interfaces
 {
     public class SpeechToText : ISpeechToText
     {

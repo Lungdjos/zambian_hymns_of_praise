@@ -1,4 +1,4 @@
-﻿namespace EHymns.Models
+﻿namespace LocalHymns.Models
 {
     public interface IEntity<TKey>
     {

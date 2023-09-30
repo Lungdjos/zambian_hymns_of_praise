@@ -1,4 +1,4 @@
-﻿namespace EHymns.Interfaces
+﻿namespace LocalHymns.Interfaces
 {
     public interface IMessageSender
     {

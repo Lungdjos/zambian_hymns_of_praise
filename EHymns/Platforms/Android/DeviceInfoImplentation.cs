@@ -1,12 +1,12 @@
 ﻿using Android.Content.PM;
 
-using EHymns.Platforms.Android;
+using LocalHymns.Platforms.Android;
 
 using Application = Android.App.Application;
 
-namespace EHymns.Interfaces
+namespace LocalHymns.Interfaces
 {
-    public class DeviceInfoImplementation : EHymns.Interfaces.IMyDeviceInfo
+    public class DeviceInfoImplementation : LocalHymns.Interfaces.IMyDeviceInfo
     {
         public bool IsWhatsAppInstalled()
         {
