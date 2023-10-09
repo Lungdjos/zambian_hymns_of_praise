@@ -2496,9 +2496,29 @@
     {
       "number": "278",
       "title": "Sweet hour of prayer.",
-      "titleWithHymnNumber": "278. Sweet hour of prayer.",
+      "titleWithHymnNumber": "278. We nshita ya mapepo we",
       "chorus": " ",
-      "verses": [ "\nWe nshita ya mapepo we, watwita kuli ba shifwe, ukuti tusokole fyonse ifiletupamfya, pa kwitaba ku bwityo bu. Twapusuka ku matunko, na satana atufilwa pa kwise nshita ye pepo.", "\nTwayako bwangu ne nsansa ku cifulo icasontwa kukumana na katula pa kwise nshita ye pepo.", "\nWe nshita ya mapepo we, watwala malombo yesu ku wa cishinka ne cine uwatemwo kutupala", "\ne watwebo kumufwaya, cine twamucetekela; atusendela macushi, pa kwise nshita ye pepo." ],
+      "verses": [
+        "\nWe nshita ya mapepo we, Watwita kuli ba Shifwe, Ukuti tusokole Fyonse ifiletupamfya, Pa kwitaba ku bwityo bu Twapusuka ku matunko, Na Satana atufilwa Pa kwise nshita ye pepo.",
+        "\nTwayako bwangu ne nsansa ku cifulo icasontwa kukumana na katula pa kwise nshita ye pepo.",
+        "\nWe nshita ya mapepo we, watwala malombo yesu ku wa cishinka ne cine uwatemwo kutupala",
+        "\ne watwebo kumufwaya, cine twamucetekela; atusendela macushi, pa kwise nshita ye pepo."
+      ],
+      "sound": " ",
+      "category": " "
+    },
+    {
+      "number": "279",
+      "title": "How Great Thou Art!",
+      "titleWithHymnNumber": "278. Mwe Lesa wandi",
+      "chorus": " ",
+      "verses": [
+        "\nMwe Lesa wandi, nga nalolekesha Ifintu fyonse `fyo mwabumbile; Namone ntanda, ne nkuba naumfwa- Maka yenu yalangwa konse fye.",
+        "\nKamwimbile, Lesa Mupusushi, Mwe bakulu, mwe bakulu! Kamwimbile, Lesa Mupusushi, Mwe bakulu, mwe bakulu!",
+        "\nNga natandala mu mutengo `kulu, Naumfwo tuni tulelilamo; Nanino lupili ulwalepesha, No kulolesha mpanga isuma.",
+        "\nIlyo naibukisha ifyo Lesa Atumine Mwana `tufwilile; Atusendele membu shesu shonse- Awe ici campapusha cine.",
+        "\nIlyo Kristu akesa mu makumbi, No kuntwala ku mwakwe ku mulu; Buseko mwe! Nkalatasha Kabumba, Nati, Mwe Lesa, muli bakulu!"
+      ],
       "sound": " ",
       "category": " "
     }
