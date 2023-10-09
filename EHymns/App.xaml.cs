@@ -1,6 +1,6 @@
-﻿using EHymns.Data;
+﻿using LocalHymns.Data;
 
-namespace EHymns;
+namespace LocalHymns;
 
 public partial class App : Application
 {
